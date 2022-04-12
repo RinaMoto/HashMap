@@ -1,8 +1,4 @@
 # Name: Rina Easterday
-# OSU Email: Easterdr@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 7
-# Due Date: 3/11/22
 # Description: Complete the HashMap implementations using Open Addressing and Quadratic Probing
 
 
